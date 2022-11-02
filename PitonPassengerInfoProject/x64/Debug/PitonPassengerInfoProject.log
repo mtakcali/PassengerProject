@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\talha\source\repos\PitonPassengerInfoProject\PitonPassengerInfoProject\Main.cpp(72,19): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  PitonPassengerInfoProject.vcxproj -> C:\Users\talha\source\repos\PitonPassengerInfoProject\x64\Debug\PitonPassengerInfoProject.exe
